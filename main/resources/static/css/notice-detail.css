@@ -1,0 +1,16 @@
+.notice-detail-header {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid #dbdbdb;
+    padding: 10px;
+}
+
+.notice-detail-title {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.notice-detail-description {
+    display: flex;
+    padding-top: 50px;
+}
